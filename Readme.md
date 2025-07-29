@@ -8,7 +8,7 @@ Perfect! Here's the updated README.md with your model performance metrics:
 Predict beach recreational suitability across Indian coastal regions using real-time oceanic and meteorological data to enhance tourist safety and support sustainable coastal tourism.
 
 ## Dataset
-- **Source**: INCOIS (Indian National Centre for Ocean Information Services) live data
+- **Source**: INCOIS (Indian National Centre for Ocean Information Services)
 - **Parameters**: Wave heights, ocean currents, wind speed/direction, water quality, weather conditions
 - **Coverage**: Indian coastal regions with real-time monitoring
 
