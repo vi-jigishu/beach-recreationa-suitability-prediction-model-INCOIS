@@ -46,7 +46,3 @@ Predict beach recreational suitability across Indian coastal regions using real-
 
 ## Impact
 Enhances coastal tourism safety through data-driven beach condition predictions, supporting India's Blue Economy Policy and reducing tourism-related coastal accidents.
-
-*Real-time oceanic intelligence for safer coastal recreation.*
-
-Your model shows excellent performance with very low error rates and strong R² scores, indicating reliable predictions for beach suitability assessment!
