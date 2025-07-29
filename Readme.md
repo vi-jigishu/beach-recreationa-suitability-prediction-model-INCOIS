@@ -1,5 +1,3 @@
-Perfect! Here's the updated README.md with your model performance metrics:
-
 # Beach Recreational Suitability Prediction Model - INCOIS
 
 **LSTM-based deep learning model for real-time beach safety assessment using live INCOIS oceanographic data.**
